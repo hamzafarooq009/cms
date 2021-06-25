@@ -1,6 +1,7 @@
 # CCA Management System (CMS)
 CMS is a **Task Management System** coupled with **Form Maker** to automate and ease **Data Management** and **Communication** between **CCA Users** and **Society Users.**
 This product is tailor made for the **Co-Curricular Activities Department** at **Lahore University of Management Sciences (LUMS).**
+![CMS](https://user-images.githubusercontent.com/46634351/123470418-d1efba80-d60d-11eb-90b2-1e6f85bae4e5.png)
 
 ## Table Of Contents:
 - [CCA Management System (CCA)](https://github.com/drageelr/cms/#cca-management-system-cms)
